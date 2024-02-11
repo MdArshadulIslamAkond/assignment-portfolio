@@ -84,3 +84,27 @@ span {
 .Develop {
   line-height: 30px;
 }
+.global {
+  margin-left: 130px;
+  margin-top: 90px;
+}
+.project {
+  margin-left: 70px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 60px;
+  width: 350px;
+  height: 370px;
+}
+.project-picture {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 140px 140px;
+  margin-right: 90px;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
