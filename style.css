@@ -3,6 +3,10 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+.page-half {
+  margin-left: 150px;
+  margin-right: 90px;
+}
 h1 {
   font-size: 40px;
   font-weight: 700;
@@ -16,8 +20,8 @@ span {
 }
 .half-div {
   /* width: 50%; */
-  padding-left: 80px;
-  padding-right: 15px;
+  /* padding-left: 80px; */
+  padding-right: 20px;
 }
 .half-div img {
   width: 80%;
@@ -34,4 +38,46 @@ span {
   line-height: 30px;
 
   /* border-image: linear-gradient;    */
+}
+.my-mission h1 {
+  text-align: center;
+}
+.mission {
+  margin-right: 25px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  padding: 0 25px;
+  font-size: 16px;
+}
+.mission img {
+  width: 130px;
+  height: 130px;
+  padding-left: 5px;
+  padding-top: 20px;
+}
+.vission {
+  margin-right: 25px;
+  background-color: antiquewhite;
+  border-radius: 20px;
+  padding: 0 25px;
+  font-size: 14px;
+}
+.vission img {
+  width: 130px;
+  height: 130px;
+  padding-left: 5px;
+  padding-top: 20px;
+}
+.gool {
+  margin-right: 15px;
+  background-color: beige;
+  border-radius: 20px;
+  padding: 0 25px;
+  font-size: 14px;
+}
+.gool img {
+  width: 130px;
+  height: 130px;
+  padding-left: 5px;
+  padding-top: 20px;
 }
