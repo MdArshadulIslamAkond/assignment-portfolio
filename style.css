@@ -1,0 +1,37 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  padding-left: 15px;
+}
+span {
+  color: orange;
+}
+.display-half {
+  display: flex;
+}
+.half-div {
+  /* width: 50%; */
+  padding-left: 80px;
+  padding-right: 15px;
+}
+.half-div img {
+  width: 80%;
+}
+.half-div a {
+  padding: 8px 20px;
+  text-decoration: none;
+  text-align: center;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+}
+.mission-22 {
+  border-left: 3px solid tomato;
+  line-height: 30px;
+
+  /* border-image: linear-gradient;    */
+}
