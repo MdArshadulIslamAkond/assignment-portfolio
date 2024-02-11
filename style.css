@@ -42,42 +42,45 @@ span {
 .my-mission h1 {
   text-align: center;
 }
-.mission {
+.mission-vission-gool {
   margin-right: 25px;
-  background-color: aliceblue;
   border-radius: 20px;
   padding: 0 25px;
   font-size: 16px;
 }
-.mission img {
+.mission-vission-gool img {
   width: 130px;
   height: 130px;
   padding-left: 5px;
   padding-top: 20px;
 }
-.vission {
-  margin-right: 25px;
+#mission {
+  background-color: aliceblue;
+}
+#vission {
   background-color: antiquewhite;
-  border-radius: 20px;
-  padding: 0 25px;
-  font-size: 14px;
 }
-.vission img {
-  width: 130px;
-  height: 130px;
-  padding-left: 5px;
-  padding-top: 20px;
-}
-.gool {
-  margin-right: 15px;
+#gool {
   background-color: beige;
-  border-radius: 20px;
-  padding: 0 25px;
-  font-size: 14px;
 }
-.gool img {
-  width: 130px;
-  height: 130px;
-  padding-left: 5px;
-  padding-top: 20px;
+.half-di {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 170px 170px;
+  margin-left: 70px;
+}
+.coding {
+  margin-left: 70px;
+  margin-top: 60px;
+  margin-right: 100px;
+  width: 350px;
+  height: 350px;
+}
+.Limits {
+  padding-right: 90px;
+  margin-top: 80px;
+}
+.Develop {
+  line-height: 30px;
 }
