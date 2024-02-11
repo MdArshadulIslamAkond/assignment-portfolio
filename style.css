@@ -79,7 +79,7 @@ span {
 }
 .Limits {
   padding-right: 90px;
-  margin-top: 80px;
+  margin-top: 50px;
 }
 .Develop {
   line-height: 30px;
@@ -102,6 +102,19 @@ span {
   background-position: right bottom;
   background-size: 140px 140px;
   margin-right: 90px;
+}
+.one-platform {
+  line-height: 25px;
+  margin-left: 120px;
+}
+.Unlimited {
+  margin-left: 120px;
+  margin-right: 90px;
+}
+.creation {
+  /* padding-right: 60px; */
+  margin-right: 60px;
+  border-top: 3px solid black;
 }
 footer {
   background-color: black;
